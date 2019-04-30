@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsFindDifference</string>
+    <string name="start">start</string>
+    <string name="right_view">rightView</string>
+    <string name="left_view">leftView</string>
+    <string name="final_photo">finalphoto</string>
+    <string name="final_cat">finalcat</string>
+    <string name="bottom">bottom</string>
+    <string name="introduction">Press the button and give it to your friends, wait 20 seconds and appreciate their freaking out faces!</string>
+    <string name="title">Find the difference</string>
+    <string name="shadow">shadow</string>
+</resources>
